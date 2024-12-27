@@ -69,7 +69,7 @@ def get():
                     Li("All computation happens in your browser - no data is sent to any server"),
                     Li(
                         "Full source code available on ",
-                        A("Replit", href="https://replit.com/@PLACEHOLDER/crypto-key-gen"),
+                        A("Replit", href="https://replit.com/t/fewsats/repls/pk-generator/view"),
                         " - feel free to inspect and run it yourself"
                     ),
                     cls="text-muted"
